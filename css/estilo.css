@@ -1,0 +1,400 @@
+.imgPrincipal{
+    background-image: url("../imagenes/fondo.jpg");
+    height: 780px;
+    width: 100%;
+    background-position: center center ;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+.navbar-brand{
+    color: #fed136;
+    font-family: 'Kaushan Script',
+    'Segoe UI',
+    'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji',
+    'Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+}
+
+.border{
+    border-style: solid;
+    
+    border-width: 10%;
+    
+}
+.text1{
+    margin-top: 100px;
+}
+
+#menu{
+    offset-position: unset;
+}
+
+.section1{
+    position: relative;
+    width: 60%;
+    height: 5%;
+    top:30%;
+    left:20%;
+}
+.section2{
+    position: relative;
+    width: 60%;
+    top:35%;
+    left:20%;
+}
+.sectionBoton{
+    position: relative;
+    width: 60%;
+    top:45%;
+    left:20%;
+    text-align: center;
+}
+
+#Shop{
+
+
+    color: #ffff;
+    font-size: 70px;
+    border-radius: 107px;
+    background-color: #fed136;
+    width: 130px;
+    height: 130px;
+    position: relative;
+    text-align: center; 
+    padding-left: 5px;
+    padding-top: 36px;
+    margin-top: 30px;
+}
+
+.li{
+    background: #fed136;
+    text-shadow: none;
+
+}
+
+a{
+    color:#fed136;
+}
+
+#bienvenida1{
+    color: #ffff;
+    text-align: center;
+    top:50px;
+    left:70px;
+    
+    
+}
+#bienvenida2{
+    color: #ffff;
+    text-align: center;
+   
+    
+}
+
+#Tservicios{
+    text-align: center;
+
+}
+
+#Tservicios2{
+    text-align: center;
+    font-style: italic;
+}
+
+.h1{
+    margin-bottom: 10%;
+    padding-top: 60%;
+    
+}
+
+
+
+
+.cont-title{
+    width: 50%;
+    height: 350px;
+    
+    position: absolute;
+    top: 235px;
+    left: 25%;
+    text-align: center;
+    color: #ffff;
+}
+.cont-title2{
+
+    
+    top: 46%;
+    bottom: 40%;
+    position: relative;
+    height: 10%;
+    left: 15%;
+    width: 70%;
+    text-align: center;
+    color: #ffff;
+    
+
+  
+
+}
+
+.cont-button{  
+   color: #ffff;
+   position: relative;
+   top: 500px;
+}
+
+div h5{
+    color: #ffff;
+}
+
+.parrafos{
+    text-align: center;
+    color: #6c757d;
+    font-size: 18px;
+
+}
+
+.submenus{
+    text-align: center;
+    color: #6c757d;  
+}
+
+.sparrafosP{
+    text-align: center;
+    color: #6c757d;
+    font-style: italic;
+}
+
+.msg-portal{
+    
+    font-family: fuente;
+}
+
+.Marg-Servicios{
+    padding: 50px;
+    position: relative;
+    top: 60px;
+    text-align: center;
+}
+
+div p{
+    margin-left: 10;
+    margin-bottom: -27px;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: justify;
+}
+
+
+
+header{
+    top: 50px;
+    position: relative;
+    text-align: center;
+}
+
+
+
+.cont-portafolio{
+    
+    top: 180px;
+    position: relative;
+}
+
+
+.Galeria{
+    padding: 50px;
+    position: relative;
+    top: 60px;
+    text-align: center;  
+    background-color: #f8f9fa;
+}
+
+.cont-imagenes{
+    margin-bottom: 25px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+
+
+.marg-imagenes:hover{
+    
+    transform:scale(0.8);
+}
+
+.marg-imagenes{
+
+    
+    margin-bottom: 154px;
+    
+}
+
+.tamañoImg{
+    height: 250px;
+    width: 310px;
+}
+
+.modalLetra{
+
+    text-align: center;
+    font-style: italic;
+}
+
+.subTitulos{
+   
+    margin-top: -130px
+}
+.subTitulos2{
+    
+    margin-top: -10px;
+}
+
+.margSeccion{
+    margin-top: 200px;
+}
+
+.margLinea{
+    padding-top: 70px;
+}
+#Tservicios3{
+    text-align: justify;
+    font-style: italic;
+}
+
+.DescripLlinea{
+    background-color: red;
+    margin-right: 0px;
+    margin-left: -10px;
+    padding-left: 38px;
+    text-align: end;
+}
+
+.margEquipo{
+    padding: 50px;
+    position: relative;
+    top: 60px;
+    text-align: center;  
+    background-color: #f8f9fa;
+}
+
+.equipoImagen{
+    border-radius: 130px;
+    width: 190px;
+    height: 190px;
+}
+
+.SubmenusEquipo{
+    text-align: center;
+    font-style: italic;
+    margin-top: -39px;
+}
+.redesSociales{
+    padding-top: 50px;
+}
+
+.circulosRedes{
+    background-color: #212529;
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+    display: block;
+}
+.circulosRedes:hover{
+    filter: opacity(1);
+    background-color: #fed136;
+}
+.margEquipoF{
+    padding-top: 50px;
+}
+.RedesL{
+    color: #ffff;
+    padding-top: 20px;
+    font-size: 25px;
+    margin-top: -5px;
+
+}
+
+.mensajeEquipo{
+    font-style: italic;
+    
+
+}
+.margenlogos{
+    margin-top: 120px;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 60px;
+}
+.margenContacto{
+    margin-left: -15px;
+    margin-right: -15px
+}
+.imgContacto{
+    background-color: #212529;
+    background-image: url("../imagenes/map-image.png");
+    height: 920px;
+    max-width:100%;
+    background-position: center center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.marg-Caja-2{
+    padding-right: 15px;
+}
+.marg-Caja-1{
+    padding-right: 15px;
+    
+}
+
+.marg-Caja-Contacto{
+    margin-top: 0px;
+    padding: 80px;
+}
+#Tcontacto{
+    
+    text-align: center;
+    color: #f8f9fa;
+    padding-top: 70px;
+   
+}
+.marg-boton-contacto{
+    text-align: center;
+
+}
+
+
+.circulosRedes2{
+    background-color: #212529;
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+    display: block;
+}
+.circulosRedes2:hover{
+    filter: opacity(1);
+    background-color: #fed136;
+}
+
+.RedesL2 {
+    color: #ffff;
+    padding-top: 20px;
+    font-size: 25px;
+    
+    margin-top: -7px;
+}
+.margen-footer{
+    padding-top: 35px;
+    
+    text-align: center;
+}
+
+.margen-footer-cajas{
+    padding-top: 35px;
+}
+
